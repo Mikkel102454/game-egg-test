@@ -7,7 +7,7 @@
     "exported_at": "2025-01-25T22:16:18+00:00",
     "name": "Minetest",
     "author": "suuuu@pterodactyl.io",
-    "description": " one of our mdsany games,d mod a game to ydsadsaour liking, make your own game, or play on a multiplayer server.",
+    "description": " one of our mdsany games,d mod a game to ydsadsaour lidsadsaking, make your own game, or play on a multiplayer server.",
     "features": null,
     "docker_images": {
         "Minetest": "ghcr.io\/ptero-eggs\/games:minetest"
