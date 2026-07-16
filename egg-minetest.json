@@ -49,7 +49,7 @@
             "field_type": "text"
         },
         {
-            "name": "Description of the server",
+            "name": "Description of nbvnvbthe server",
             "description": "Description of server, to be displayed when players join and in the serverlist.",
             "env_variable": "SERVER_DESC",
             "default_value": "mine here",
